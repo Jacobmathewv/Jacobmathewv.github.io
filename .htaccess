@@ -1,0 +1,6 @@
+AuthGroupFile /dev/null
+AuthUserFile /home/cleverwe/domains/jacobmv.in/.htpasswd/public_html/.htpasswd
+AuthName "login"
+ErrorDocument 401 "Unauthorized Access"
+require valid-user
+AuthType Basic
