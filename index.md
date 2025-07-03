@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site
+# jacobmv.in
 
-This is a simple website built with Markdown and GitHub Pages.
+Something Amazing will be constructed here
